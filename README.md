@@ -12,11 +12,11 @@ This is a classic Pong game developed in C++ using the Raylib library. The proje
 ## Installation
 1. Clone the repository:
 ```shell
-git clone https://github.com/your-username/PingPong-cpp.git
+git clone https://github.com/tars-06/ping-pong-cpp.git
 ```
 2. Move to the directory in a terminal where main.cpp is stored.
 
-3. Build the game using your C++ compiler. I have personally used mingw32-make as follows: 
+3. Build the game using your C++ compiler. Personally, I have used mingw32-make as follows: 
 ```shell
 mingw32-make main
 ```
