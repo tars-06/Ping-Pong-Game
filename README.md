@@ -1,5 +1,6 @@
 # PingPong Game
 This is a classic Pong game developed in C++ using the Raylib library. The project offers a fun and engaging gameplay experience where two players can compete, or a player can face off against an AI-controlled opponent.
+![Game Example](assets/example.png)
 ## Features
 - Player vs CPU mode
 - Smooth ball physics and responsive movement
@@ -12,7 +13,7 @@ This is a classic Pong game developed in C++ using the Raylib library. The proje
 ## Installation
 1. Clone the repository:
 ```shell
-git clone https://github.com/tars-06/ping-pong-cpp.git
+git clone https://github.com/tars-06/ping-pong-game.git
 ```
 2. Move to the directory in a terminal where main.cpp is stored.
 
