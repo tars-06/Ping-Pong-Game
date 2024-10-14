@@ -13,6 +13,9 @@ This is a classic Pong game developed in C++ using the Raylib library. The proje
 - C++ compiler (supporting C++11 or later)
 - Raylib library installed in C Drive
 ## Installation
+
+Although I have included the final executable file main.exe, if you want to build it by yourself you can do so by following steps-
+
 1. Clone the repository:
 ```shell
 git clone https://github.com/tars-06/ping-pong-game.git
