@@ -14,7 +14,7 @@ This is a classic Pong game developed in C++ using the Raylib library. The proje
 - Raylib library installed in C Drive
 ## Installation
 
-Although I have included the final executable file main.exe, if you want to build it by yourself you can do so by following steps-
+Although I have included the final executable file main.exe, if you want to build it by yourself you can do so by the following steps-
 
 1. Clone the repository:
 ```shell
